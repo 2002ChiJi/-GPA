@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "navigationBarTitleText": "嵇稽GPA",
+    "navigationBarTextStyle":"black",
+    "backgroundColor": "#0094ff"
+  }
+}

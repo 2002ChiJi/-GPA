@@ -1,0 +1,131 @@
+<view class="page-body">
+  <view class="page-section">
+    <view class="weui-cells__title">动动手指摇摇头，个人绩点到你手</view>
+    <view class="weui-cells__title">项目地址: github.com/2002ChiJi/-GPA</view>
+    <view class="weui-cells__title">0.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score0" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+        <input type="digit" class="weui-input" data-name="credits0" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">1.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score1" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+        <input type="digit" class="weui-input" data-name="credits1" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">2.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score2" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+        <input type="digit" class="weui-input" data-name="credits2" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">3.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score3" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+        <input type="digit" class="weui-input" data-name="credits3" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">4.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score4" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+        <input type="digit" class="weui-input" data-name="credits4" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">5.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score5" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+        <input type="digit" class="weui-input" data-name="credits5" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">6.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score6" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+        <input type="digit" class="weui-input" data-name="credits6" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">7.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score7" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+        <input type="digit" class="weui-input" data-name="credits7" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">8.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score8" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+        <input type="digit" class="weui-input" data-name="credits8" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">9.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score9" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+        <input type="digit" class="weui-input" data-name="credits9" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">10.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score10" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+         <input type="digit" class="weui-input" data-name="credits10" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">11.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score11" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+        <input type="digit" class="weui-input" data-name="credits11" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">12.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score12" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+        <input type="digit" class="weui-input" data-name="credits12" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">13.输入学分和课程成绩</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input type="digit" class="weui-input" data-name="score13" maxlength="5" bindinput="bindKeyInput" placeholder-style="color:#F76260" placeholder="输入成绩"/>
+        <input type="digit" class="weui-input" data-name="credits13" maxlength="5" bindinput="bindKeyInput" placeholder="输入学分"/>
+      </view>
+    </view>
+  </view>
+  <button type="primary" bindtouchend="calc">GPA:{{gpa}}</button>
+</view>
